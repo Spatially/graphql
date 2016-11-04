@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/graphql-go/graphql"
+	"github.com/Spatially/graphql"
 	"github.com/graphql-go/handler"
 )
 

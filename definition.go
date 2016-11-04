@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"regexp"
 
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/ast"
+	"github.com/Spatially/graphql/gqlerrors"
+	"github.com/Spatially/graphql/language/ast"
 	"golang.org/x/net/context"
 )
 

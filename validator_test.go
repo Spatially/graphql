@@ -3,13 +3,13 @@ package graphql_test
 import (
 	"testing"
 
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/ast"
-	"github.com/graphql-go/graphql/language/location"
-	"github.com/graphql-go/graphql/language/parser"
-	"github.com/graphql-go/graphql/language/source"
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/Spatially/graphql"
+	"github.com/Spatially/graphql/gqlerrors"
+	"github.com/Spatially/graphql/language/ast"
+	"github.com/Spatially/graphql/language/location"
+	"github.com/Spatially/graphql/language/parser"
+	"github.com/Spatially/graphql/language/source"
+	"github.com/Spatially/graphql/testutil"
 	"reflect"
 )
 
