@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/Spatially/graphql"
-	"github.com/graphql-go/handler"
+	"github.com/Spatially/handler"
 )
 
 type Todo struct {
