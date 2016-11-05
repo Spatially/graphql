@@ -84,7 +84,7 @@ This project was originally a port of [v0.4.3](https://github.com/graphql/graphq
 - [x] Executor
 - [x] Validator
 - [ ] Examples
-  - [ ] Basic Usage (see: [PR-#21](https://github.com/Spatially/graphql/pull/21))
+  - [ ] Basic Usage (see: [PR-#21](https://github.com/graphql-go/graphql/pull/21))
   - [ ] React/Relay
 - [ ] Alpha Release (v0.1)
 
